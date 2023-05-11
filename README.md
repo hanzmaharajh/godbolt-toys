@@ -8,6 +8,8 @@ Experiments, Tutorials, Examples written for myself and colleagues
   * https://gcc.godbolt.org/z/t4IwpC - For shared_from_this
 * Argument passing
   * https://godbolt.org/z/ashjrf - Pass shared_ptr args by l-value, reference, and r-value
+* Parameter Pack Manipulation
+  * https://godbolt.org/z/6xdr3ndT7 - Selecting arguments from pack 
 * Fold expressions
   * https://godbolt.org/z/dx18xj - all_of(), any_of(), none_of()
   * https://godbolt.org/z/1b5sYe - is_any_of(), matches_any_of()
