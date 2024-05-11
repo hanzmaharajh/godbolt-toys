@@ -47,7 +47,7 @@ Experiments, Tutorials, Examples written for myself and colleagues
   * https://godbolt.org/z/ueBtdz - optional
   * https://godbolt.org/z/6FYfbN - if constexpr (https://godbolt.org/z/oFaPbF)
   * https://godbolt.org/z/bSHsim - string_view (https://godbolt.org/z/2tPunP)
-  * https://godbolt.org/z/HDxqr7, https://godbolt.org/z/uvTdBN - if inti
+  * https://godbolt.org/z/HDxqr7, https://godbolt.org/z/uvTdBN - if init
   * https://godbolt.org/z/z4SRYH - variant
   * https://godbolt.org/z/jEf9ThKMe - Deduction guide / Cancellable future/promise
 * Misc 
