@@ -49,6 +49,7 @@ Experiments, Tutorials, Examples written for myself and colleagues
   * https://godbolt.org/z/bSHsim - string_view (https://godbolt.org/z/2tPunP)
   * https://godbolt.org/z/HDxqr7, https://godbolt.org/z/uvTdBN - if inti
   * https://godbolt.org/z/z4SRYH - variant
+  * https://godbolt.org/z/jEf9ThKMe - Deduction guide / Cancellable future/promise
 * Misc 
   * https://godbolt.org/z/r7TE4a - Optional Visitor
   * https://godbolt.org/z/v1c39PEbc - Embedded Python
