@@ -54,7 +54,7 @@ Experiments, Tutorials, Examples written for myself and colleagues
   * https://godbolt.org/z/r7TE4a - Optional Visitor
   * https://godbolt.org/z/v1c39PEbc - Embedded Python
   * https://godbolt.org/z/YY8n5qn4o - Embedded Lua
-  *   
+  * https://godbolt.org/z/1Wq1fMo1n - Log allocations
 
 
 
